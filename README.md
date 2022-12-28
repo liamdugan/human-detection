@@ -41,3 +41,20 @@ Finally, the `/processing` folder contains the code used to process the raw RoFT
 ## Reproduction
 
 To reproduce the figures from the paper, simply run the `analysis.ipynb` notebook. 
+
+## Citation
+If you use our data or analysis code for your research, please cite us as
+<pre>
+@inproceedings{dugan-etal-2022-realorfake,
+  title = "Real or Fake Text?: Investigating Human Ability to Detect Boundaries Between Human-Written and Machine-Generated Text",
+  author = "Dugan, Liam  and
+      Ippolito, Daphne  and
+      Kirubarajan, Arun  and
+      Shi, Sherry  and
+      Callison-Burch, Chris",
+  publisher = "arXiv",
+  year = "2022",
+  url = "https://arxiv.org/abs/2212.12672",
+  doi = "10.48550/ARXIV.2212.12672",
+}
+</pre>
