@@ -45,16 +45,20 @@ To reproduce the figures from the paper, simply run the `analysis.ipynb` noteboo
 ## Citation
 If you use our data or analysis code for your research, please cite us as
 <pre>
-@inproceedings{dugan-etal-2022-realorfake,
-  title = "Real or Fake Text?: Investigating Human Ability to Detect Boundaries Between Human-Written and Machine-Generated Text",
+@article{dugan-etal-2023-roft, 
+  title="Real or Fake Text?: Investigating Human Ability to Detect Boundaries between Human-Written and Machine-Generated Text",
   author = "Dugan, Liam  and
-      Ippolito, Daphne  and
-      Kirubarajan, Arun  and
-      Shi, Sherry  and
-      Callison-Burch, Chris",
-  publisher = "arXiv",
-  year = "2022",
-  url = "https://arxiv.org/abs/2212.12672",
-  doi = "10.48550/ARXIV.2212.12672",
+    Ippolito, Daphne  and
+    Kirubarajan, Arun  and
+    Shi, Sherry  and
+    Callison-Burch, Chris",
+  journal="Proceedings of the AAAI Conference on Artificial Intelligence", 
+  volume="37", 
+  number="11", 
+  year="2023", 
+  month="Jun.", 
+  pages="12763-12771",
+  url="https://ojs.aaai.org/index.php/AAAI/article/view/26501", 
+  DOI="10.1609/aaai.v37i11.26501", 
 }
 </pre>
