@@ -2,7 +2,7 @@
 
 This repository contains the data and code for the AAAI 2023 paper "Real or Fake Text?: Investigating Human Ability to Detect Boundaries Between Human-Written and Machine-Generated Text". In our paper we use a dataset of over 21,000 human annotations of generated text to show that humans can be trained to improve at detection and that certain genres influence generative models to make different types of errors.
 
-To download the data, either clone the repository or use the link [here](seas.upenn.edu/~ldugan/roft.csv)!
+To download the data, either clone the repository or use the link [here](https://www.seas.upenn.edu/~ldugan/roft.csv)!
 
 ## Sample Analysis Notebook
 
