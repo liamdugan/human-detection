@@ -4,6 +4,8 @@ This repository contains the data and code for the AAAI 2023 paper "Real or Fake
 
 To download the data, either clone the repository or use the link [here](https://www.seas.upenn.edu/~ldugan/roft.csv)!
 
+**NEW: You can also now download RoFT through the [HuggingFace Datasets 🤗](https://huggingface.co/datasets/liamdugan/roft) Library**
+
 ## Sample Analysis Notebook
 
 To help get started with reading in the dataset, we've provided a sample analysis notebook at `analysis.ipynb`. To run it, install the dependencies in your virtual environment of choice
